@@ -10,7 +10,7 @@
 
 ---
 
-###  À propos
+###  À propos 
 
 **Développeur Full-Stack & Mobile**, passionné par la création de solutions SaaS pensées pour les marchés africains.
 Je combine rigueur technique et architecture propre pour livrer des produits robustes, du backend jusqu'à l'interface.
